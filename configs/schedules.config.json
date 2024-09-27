@@ -4,16 +4,16 @@
             "name": "Columbus Dance Theater - Open House",
             "path": "columbus-dance-theater-open-house",
             "date": "2024-09-15",
-            "timeFrom": "14:00:00",
-            "timeTo": "16:00:00",
+            "timeFrom": "2:00 PM",
+            "timeTo": "4:00 PM",
             "description": "Presenting 12-minute version of Sleepwalker, Daydreamer."
         },
         {
             "name": "Guangdong Modern Dance Festival",
             "path": "guangdong-modern-dance-festival",
             "date": "2024-11-18",
-            "timeFrom": "20:00:00",
-            "timeTo": "22:00:00",
+            "timeFrom": "8:00 PM",
+            "timeTo": "10:00 PM",
             "description": "Sleepwalker, Daydreamer receives its Chinese premiere in Guangdong Modern Dance Festival."
         }
     ]
