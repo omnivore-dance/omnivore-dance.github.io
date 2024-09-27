@@ -2,6 +2,7 @@
     "schedules": [
         {
             "name": "Columbus Dance Theater - Open House",
+            "path": "columbus-dance-theater-open-house",
             "date": "2024-09-15",
             "timeFrom": "14:00:00",
             "timeTo": "16:00:00",
@@ -9,6 +10,7 @@
         },
         {
             "name": "Guangdong Modern Dance Festival",
+            "path": "guangdong-modern-dance-festival",
             "date": "2024-11-18",
             "timeFrom": "20:00:00",
             "timeTo": "22:00:00",
