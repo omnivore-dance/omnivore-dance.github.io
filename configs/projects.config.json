@@ -17,7 +17,8 @@
             "award": [
                 "Guangdong Modern Dance Festival, Guangzhou, China (forthcoming, November 2024)"
             ],
-            "imagePath": "sleepwalker-daydreamer"
+            "imagePath": "sleepwalker-daydreamer",
+            "imageCount": 6
         },
         {
             "name": "Phony Pony Ho!",
@@ -38,7 +39,8 @@
             "award": [
                 "Merit Honoree of New Century Dance Project, 2024"
             ],
-            "imagePath": "phony-pony-ho"
+            "imagePath": "phony-pony-ho",
+            "imageCount": 6
         },
         {
             "name": "Mumulalala",
@@ -54,7 +56,8 @@
             "locations": [
                 "Claire Trevor Theater at University of California, Irvine (April, 2024)"
             ],
-            "imagePath": "mumulalala"
+            "imagePath": "mumulalala",
+            "imageCount": 6
         },
         {
             "name": "Lanimaria",
@@ -70,7 +73,8 @@
             "locations": [
                 "Claire Trevor Theater at University of California, Irvine (Dec, 2023)"
             ],
-            "imagePath": "lanimaria"
+            "imagePath": "lanimaria",
+            "imageCount": 6
         },
         {
             "name": "Orbit",
@@ -86,7 +90,8 @@
             "locations": [
                 "Claire Trevor Theater at University of California, Irvine (Dec, 2022)"
             ],
-            "imagePath": "orbit"
+            "imagePath": "orbit",
+            "imageCount": 6
         },
         {
             "name": "Love Me If You Dare",
@@ -102,7 +107,8 @@
             "locations": [
                 "Claire Trevor Theater at University of California, Irvine (May, 2024)"
             ],
-            "imagePath": "love-me-if-you-dare"
+            "imagePath": "love-me-if-you-dare",
+            "imageCount": 6
         },
         {
             "name": "Once I Had a Dream",
@@ -118,7 +124,8 @@
                 "American College Dance Association Baja Regional Conference, Carson, California (Jan, 2024)",
                 "Claire Trevor Theater at University of California, Irvine (Dec, 2022)"
             ],
-            "imagePath": "once-i-had-a-dream"
+            "imagePath": "once-i-had-a-dream",
+            "imageCount": 6
         },
         {
             "name": "Who Stole the Sky",
@@ -133,7 +140,8 @@
             "locations": [
                 "Claire Trevor Theater at University of California, Irvine (Dec, 2023)"
             ],
-            "imagePath": "who-stole-the-sky"
+            "imagePath": "who-stole-the-sky",
+            "imageCount": 5
         },
         {
             "name": "Mars(c)h",
@@ -148,7 +156,8 @@
             "locations": [
                 "Shenzhen Longgang Cultural Center Black Box, Shenzhen, China (Nov, 2023)"
             ],
-            "imagePath": "marsch"
+            "imagePath": "marsch",
+            "imageCount": 2
         },
         {
             "name": "Quantum",
@@ -163,7 +172,8 @@
                 "Powerlong Museum, Shanghai, China (Dec, 2021)",
                 "New York University Shanghai, Shanghai, China (Dec, 2021)"
             ],
-            "imagePath": "quantum"
+            "imagePath": "quantum",
+            "imageCount": 4
         },
         {
             "name": "Lines and Spirals",
@@ -178,7 +188,8 @@
                 "Powerlong Museum, Shanghai, China (Dec, 2021)",
                 "New York University Shanghai, Shanghai, China (Dec, 2021)"
             ],
-            "imagePath": "lines-and-spirals"
+            "imagePath": "lines-and-spirals",
+            "imageCount": 5
         }
     ]
 }
